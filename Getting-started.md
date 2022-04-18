@@ -5,8 +5,9 @@ Topics:
 * Shell
 * Types
 
+## What is MongoDB?
 
-## About Scaling and Database growth.
+### About Scaling and Database growth.
 
 When the database grows, you’ll have a challenge of how to scale it. There are two common ways:
 
