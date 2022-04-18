@@ -1,3 +1,10 @@
+# Getting Started
+Topics:
+* What is MongoDB?
+* Basics
+* Shell
+* Types
+
 
 ## About Scaling and Database growth.
 
